@@ -1,0 +1,2 @@
+# powershell
+Mainly powershell snippets
